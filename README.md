@@ -6,13 +6,9 @@ Spots is intended to be an interactive social media web application.
 
 Users will be able to add and remove photos. Users will also be able to like other users photos and update their profiles.
 
-- Intro
-- Figma
-- Images
-
 **Intro**
 
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+This project is made so all the elements are displayed correctly on popular screen sizes. There wil be interactive buttons for user to edit their profiles and photos, as well as add new posts. This project has been created in conjunction with the Figma design. It was created using HTML and CSS based on the figma design.
 
 **Figma**
 
@@ -20,6 +16,4 @@ This project is made so all the elements are displayed correctly on popular scre
 
 **Images**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
-
-Good luck and have fun!
+The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to 
