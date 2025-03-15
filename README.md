@@ -2,12 +2,12 @@
 
 ### Overview
 
-*Intro
-*Description
-*Tech Stack
-*Figma
-*Deployment
-*Images
+- Intro
+- escription
+- Tech Stack
+- Figma
+- Deployment
+- Images
 
 **Intro**
 
