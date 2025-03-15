@@ -11,11 +11,11 @@
 
 **Intro**
 
-Spots is intended to be an interactive social media web application. This project is made so all the elements are displayed correctly on popular screen sizes. Users will be able to add and remove photos. Users will also be able to like other users photos and update their profiles.
+Spots is intended to be an interactive social media web application. This project is made so all the elements are displayed correctly on popular screen sizes. Users will be able to update their profiles, add and remove photos.,as well as like other users photos.
 
 **Description**
 
-During this project I demonstrate my ability to the website and its functionality at different browser display sizes. I showcase my knowledge of using flex box, grid layouts, media tags, button tags and font-faces.
+During this project I demonstrate my ability to ensure the website functions properly at different browser display sizes. I showcase my knowledge of using flex box, grid layouts, media tags, button tags and font-faces.
 
 **Tech stack**
 
