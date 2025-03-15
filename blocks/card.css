@@ -29,6 +29,7 @@
   background-image: url(../images/heart.svg);
   background-size: contain;
   background-repeat: no-repeat;
+  background-position: center;
   height: 20px;
   width: 23px;
   border: none;
