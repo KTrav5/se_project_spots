@@ -19,9 +19,9 @@ During this project I demonstrate my ability to the website and its functionalit
 
 **Tech stack**
 
-HTML
-CSS
-Responsive Design
+- HTML
+- CSS
+- Responsive Design
 
 **Figma**
 
