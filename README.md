@@ -32,9 +32,5 @@ During this project I demonstrate my ability to ensure the website functions pro
 https://ktrav5.github.io/se_project_spots/
 
 **Images**
-![alt text](./images/1-photo-by-moritz-feldmann-from-pexels.jpg)
-![alt text](./images/2-photo-by-ceiline-from-pexels.jpg)
-![alt text](./images/3-photo-by-tubanur-dogan-from-pexels.jpg)
-![alt text](./images/4-photo-by-maurice-laschet-from-pexels.jpg)
-![alt text](./images/5-photo-by-van-anh-nguyen-from-pexels.jpg)
-![alt text](./images/6-photo-by-moritz-feldmann-from-pexels.jpg)
+![alt text](./images/Spots%20App%201440px.png)
+![alt text](./images/Spots%20App%20Mobile%20Version.png)
