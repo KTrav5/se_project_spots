@@ -11,7 +11,7 @@
 
 **Intro**
 
-Spots is intended to be an interactive social media web application. This project is made so all the elements are displayed correctly on popular screen sizes. Users will be able to update their profiles, add and remove photos.,as well as like other users photos.
+Spots is intended to be an interactive social media web application. This project is made so all the elements are displayed correctly on popular screen sizes. Users will be able to update their profiles, add and remove photos, as well as like other users photos.
 
 **Description**
 
