@@ -37,4 +37,4 @@ https://ktrav5.github.io/se_project_spots/
 ![alt text](./images/3-photo-by-tubanur-dogan-from-pexels.jpg)
 ![alt text](./images/4-photo-by-maurice-laschet-from-pexels.jpg)
 ![alt text](./images/5-photo-by-van-anh-nguyen-from-pexels.jpg)
-![alt text](<./images/6-photo-by-moritz-feldmann-from-pexels.jpg)
+![alt text](./images/6-photo-by-moritz-feldmann-from-pexels.jpg)
