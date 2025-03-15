@@ -25,12 +25,16 @@ During this project I demonstrate my ability to ensure the website functions pro
 
 **Figma**
 
-(https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
+![Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
 
 **Deployment**
 
-https://ktrav5.github.io/se_project_spots/
+![GitHub Deployment](https://ktrav5.github.io/se_project_spots/)
+
+**Video Link**
+
+![Link to video](https://drive.google.com/file/d/1dBsaRUbFMMHro3LWPMvAQ6a2samoJntI/view?usp=drive_link)
 
 **Images**
-![alt text](./images/Spots%20App%201440px.png)
-![alt text](./images/Spots%20App%20Mobile%20Version.png)
+![Desktop View](./images/Spots%20App%201440px.png)
+![Mobile View](./images/Spots%20App%20Mobile%20Version.png)
