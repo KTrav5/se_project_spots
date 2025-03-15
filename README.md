@@ -4,7 +4,12 @@ Spots is intended to be an interactive social media web application.
 
 ### Overview
 
-Users will be able to add and remove photos. Users will also be able to like other users photos and update their profiles.
+Intro
+Description
+Tech Stack
+Figma
+Deployment
+Images
 
 **Intro**
 
@@ -12,13 +17,19 @@ This project is made so all the elements are displayed correctly on popular scre
 
 **Description**
 
-This project is made so all the elements are displayed correctly on popular screen sizes. During this project I demonstrate my ability to the website and its functionality at different browser display sizes.
+This project is made so all the elements are displayed correctly on popular screen sizes. Users will be able to add and remove photos. Users will also be able to like other users photos and update their profiles. During this project I demonstrate my ability to the website and its functionality at different browser display sizes. I showcase my knowledge of using flex box, grid layouts, media tags, button tags and font-faces.
+
+**Tech stack**
+
+HTML
+CSS
+Responsive Design
 
 **Figma**
 
 (https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
 
-**GitHub**
+**Deployment**
 
 https://ktrav5.github.io/se_project_spots/
 
