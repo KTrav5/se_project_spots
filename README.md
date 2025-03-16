@@ -3,7 +3,7 @@
 ### Overview
 
 - Intro
-- escription
+- Description
 - Tech Stack
 - Figma
 - Deployment
