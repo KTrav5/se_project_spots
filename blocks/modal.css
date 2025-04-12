@@ -43,7 +43,8 @@
 }
 
 .modal__close-button:hover {
-  background-image: url(../images/closehover.svg);
+  cursor: pointer;
+  opacity: 1;
 }
 
 .modal__title {
@@ -88,6 +89,10 @@
   background: #212121;
   color: #fcf5e5;
   border-radius: 8px;
+}
+
+.modal__submit-button:hover {
+  cursor: pointer;
 }
 
 @media screen and (max-width: 627px) {
