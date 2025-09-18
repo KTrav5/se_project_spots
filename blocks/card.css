@@ -6,7 +6,7 @@
   border-radius: 8px;
 }
 
-.card__content {
+.card__footer {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -25,6 +25,12 @@
   margin: 0;
 }
 
+.card__delete-button {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+
 .card__like-button {
   background-image: url(../images/heart.svg);
   background-size: contain;
@@ -38,8 +44,17 @@
   cursor: pointer;
 }
 
+.card__like_button_active {
+  background-image: url(../images/Like-active.svg);
+  opacity: 1;
+}
+
 .card__like-button:hover {
   opacity: 1;
+}
+
+.card__like_button_active:hover {
+  opacity: 0.4;
 }
 
 @media screen and (max-width: 627px) {
